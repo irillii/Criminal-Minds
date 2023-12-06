@@ -1,5 +1,5 @@
 # Criminal-Minds
-A representation of bivariate relationships in the television show "Criminal Minds"
+This project is a representation of bivariate relationships in the television show "Criminal Minds"
 Methods used to collect data were observational. Data for each variable was collected by individual episode, and the data is a convenience sample of 45 episodes. The variables selected for analysis are the observed relationship between the victim(s) and offender, the type of crime committed in the episode, the number of victims,the number of days the Behavioral Analysis Unit spends investigating the crime, and the age of the offender. 
 The first variable, the observed relationship between the victim(s) and the offender, was measured on a categorical scale from 1-5 with the relationship being family, friends, partners, strangers, or another type not listed. Each of the categories are exclusive so that there cannot be more than one observation of a relationship in a single episode. 
 The second variable is the type of crime that each episode is centered upon, as each episode features only one crime scene. Data is measured on a categorical scale from 1-6, with the possibility of the observed crime being murder, robbery, sexual assault, kidnapping, drug trafficking, or another type not listed. 
